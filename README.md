@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahatpaiyanns
 - 👀 I’m interested in Automation, IoT, and Mobile Apps
-- 🌱 I’m currently learning Automation, IoT, Mobile Apps
+- 🌱 I’m currently learning Automation, IoT, and Mobile Apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
